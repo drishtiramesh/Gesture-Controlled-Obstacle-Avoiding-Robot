@@ -1,7 +1,5 @@
-// ask_transmitter.pde
 // -*- mode: C++ -*-
-// Simple example of how to use RadioHead to transmit messages
-// with a simple ASK transmitter in a very simple way.
+// Using a RadioHead to transmit messages with a simple ASK transmitter 
 // Implements a simplex (one-way) transmitter with an TX-C1 module
 
 #include <RH_ASK.h>
